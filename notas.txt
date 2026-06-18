@@ -1,3 +1,3 @@
 Hola, mucho gusto :D
 
-Línea generadora de conflictos >:)
+He borrado ambos cambios, se ha resuelto el conflicto o.0
